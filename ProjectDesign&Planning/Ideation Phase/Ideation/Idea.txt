@@ -1,3 +1,4 @@
-1. To get the better understanding of the given problem statement for the data analytics for DHL logistics.
-2. To learn data visualization techniques to interpret the data to get the results.
-3. Apply the learned techniques in IBM Cognos Analytical tool to create dashboard to present the data.
+TOP 3 IDEAS
+1. THE USER MUST CHOOSE THE ANOTHER CITY
+2. SHOULD USE THE SUPPLY CHAIN
+3.USING COGNOS ANALYTICS
